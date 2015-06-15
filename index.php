@@ -17,8 +17,9 @@
 <!DOCTYPE html>
 
 	<meta charset="utf-8" />
+	<head>
    <title>Session Passphrase</title>
-    	
+    	</head>
     <link rel="stylesheet" type="text/css" href="style.css" />
 
 <html>
