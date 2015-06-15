@@ -15,6 +15,12 @@
 //if you leave off the method in the form it becomes a GET
 ?>
 <!DOCTYPE html>
+
+	<meta charset="utf-8" />
+   <title>Session Passphrase</title>
+    	
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
 <html>
 	<body>
         <form action="login.php" method="POST">
