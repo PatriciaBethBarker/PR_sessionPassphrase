@@ -23,6 +23,7 @@
 
 <html>
 	<body>
+<div class="wrapper">
         <form action="login.php" method="POST">
 	<table>
 		<tr>
@@ -38,6 +39,6 @@
 
     <h1>Welcome!</h1>
   <p>This is our flow chart <a href="http://www.tcbcommercialproperties.com/sandbox/sp/flowchart.png">A3: Session Passphrase</a>
-
+</div> <!-- end wrapper -->
     	</body>
 </html>
