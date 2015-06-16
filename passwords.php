@@ -1,3 +1,4 @@
+<?php
 /**
  * passwords.php for Session Passphrase
  * 
@@ -15,6 +16,6 @@
  * @see index.php
  * @todo none
  */
-<?php
+
   $password = "abc123";
 ?>

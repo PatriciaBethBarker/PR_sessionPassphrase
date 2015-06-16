@@ -1,3 +1,4 @@
+<?php
 /**
  * logout.php for Session Passphrase
  * 
@@ -15,7 +16,7 @@
  * @see passwords.php
  * @todo none
  */
-<?php
+ 
   session_start();
     $_SESSION = array();
     
