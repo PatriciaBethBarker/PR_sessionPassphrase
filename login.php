@@ -1,3 +1,4 @@
+<?php
 /**
  * login.php for Session Passphrase
  * 
@@ -15,7 +16,7 @@
  * @see passwords.php
  * @todo none
  */
-<?php
+
   include('passwords.php');
   session_start(); //Start session
     $_SESSION["password"] = $_POST["password"]; //if what was entered has a value - is it equal to the session
