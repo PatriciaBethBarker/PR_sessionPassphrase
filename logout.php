@@ -16,7 +16,11 @@
  * @see passwords.php
  * @todo none
  */
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 6cdfc46ec4a7c79875748f686a359395337d6d36
   session_start();
     $_SESSION = array();
     
