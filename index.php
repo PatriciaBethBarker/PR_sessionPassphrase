@@ -1,3 +1,4 @@
+<?php
 /**
  * index.php for Session Passphrase
  * 
@@ -15,7 +16,7 @@
  * @see passwords.php
  * @todo none
  */
-<?php
+
 	SESSION_start();
 //this goes in front of every session 
 //the php must be the first code on the page or will not work
